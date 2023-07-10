@@ -1,4 +1,4 @@
-<h1 align="center">js Básico</h1>
+<h1 align="center">Exercícios Javascript - Básico</h1>
 
 ---
 
